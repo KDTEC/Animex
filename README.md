@@ -88,6 +88,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 [stars-url]: https://github.com/KDTEC/Animex/stargazers
 [issues-shield]: https://img.shields.io/github/issues/KDTEC/Animex.svg?style=for-the-badge
 [issues-url]: https://github.com/KDTEC/Animex/issues
-[search-screenshot]: screenshots/search.png
-[landing-screenshot]: screenshots/landing.png
+[search-screenshot]: screenshots/search.PNG
+[landing-screenshot]: screenshots/landing.PNG
 
